@@ -76,9 +76,9 @@ A: Your game progress is automatically saved as you play, allowing you to contin
 
 ## Related Games
 
-- [Flip Bottle](https://appleworm.org/flip-bottle)
-- [Bouncy Balls](https://appleworm.org/bouncy-balls)
-- [Kour IO](https://appleworm.org/kour-io)
+- [Flip Bottle](https://flipbottle.org/)
+- [Bouncy Balls](https://bouncy-balls.org/)
+- [Kour IO](https://kourio.online/)
 
 ## License
 
